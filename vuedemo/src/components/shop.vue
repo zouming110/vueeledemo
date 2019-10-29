@@ -6,8 +6,8 @@
         <ol>
             <li>商品1</li>
             <li>商品2</li>
-            <li>商品3</li>
-            <li>商品4</li>
+            <li>可乐</li>
+            <li>雪碧</li>
             <li>商品5</li>
         </ol>
         <button @click="back1()">返回</button>
